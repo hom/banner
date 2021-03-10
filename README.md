@@ -11,7 +11,7 @@ Blog or notebook need has banner
 
 前端开发转全栈，目前的技术栈是 Node.js、Python，日常研究 C、C++ 和 Rust，孜孜啃食系统开发和网络设计中~
 
-更多的内容请移步[GitHub](https://github.com/ruxf)@ruxf，[知乎](https://www.zhihu.com/people/mrmengj)@孟太白，[掘金](https://juejin.cn/user/1626932937494792)，或者关注我的公众号@全栈开发师，欢迎来撩~
+更多的内容请移步[GitHub](https://github.com/ruxf)@ruxf，[知乎](https://www.zhihu.com/people/mrmengj)@如小非，[掘金](https://juejin.cn/user/1626932937494792)，或者关注我的公众号@全栈开发师，欢迎来撩~
 
 学到老，写到老，生命不停，编程不止~
 
@@ -21,7 +21,7 @@ Blog or notebook need has banner
 ```
 前端开发转全栈，目前的技术栈是 Node.js、Python，日常研究 C、C++ 和 Rust，孜孜啃食系统开发和网络设计中~
 
-更多的内容请移步[GitHub](https://github.com/ruxf)@ruxf，[知乎](https://www.zhihu.com/people/mrmengj)@孟太白，[掘金](https://juejin.cn/user/1626932937494792)，或者关注我的公众号@全栈开发师，欢迎来撩~
+更多的内容请移步[GitHub](https://github.com/ruxf)@ruxf，[知乎](https://www.zhihu.com/people/mrmengj)@如小非，[掘金](https://juejin.cn/user/1626932937494792)，或者关注我的公众号@全栈开发师，欢迎来撩~
 
 学到老，写到老，生命不停，编程不止~
 
